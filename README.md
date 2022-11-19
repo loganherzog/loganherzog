@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loganherzog
+- 👋 Hi, I’m Logan :)
 
 <!---
 loganherzog/loganherzog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
